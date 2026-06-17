@@ -1,0 +1,17 @@
+<svg width="1200" height="190" viewBox="0 0 1200 190" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="v" x1="36" y1="95" x2="1164" y2="95" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00FF88"/>
+      <stop offset="0.5" stop-color="#00C2FF"/>
+      <stop offset="1" stop-color="#FF2BD6"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="190" rx="22" fill="#070B12"/>
+  <rect x="28" y="28" width="1144" height="134" rx="18" stroke="url(#v)" stroke-width="2"/>
+  <text x="58" y="82" fill="#EAFBF5" font-family="Consolas, monospace" font-size="30" font-weight="700">VISITOR LEDGER</text>
+  <text x="58" y="120" fill="#9BEED4" font-family="Consolas, monospace" font-size="18">thanks for passing through the command center</text>
+  <path d="M780 98H1110" stroke="url(#v)" stroke-width="4" stroke-linecap="round">
+    <animate attributeName="stroke-dashoffset" values="0;80;0" dur="3s" repeatCount="indefinite"/>
+    <animate attributeName="stroke-dasharray" values="18 16;80 22;18 16" dur="3s" repeatCount="indefinite"/>
+  </path>
+</svg>

@@ -1,0 +1,30 @@
+<svg width="1200" height="340" viewBox="0 0 1200 340" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="a" x1="60" y1="70" x2="1140" y2="280" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00FF88"/>
+      <stop offset="0.48" stop-color="#00C2FF"/>
+      <stop offset="1" stop-color="#7C3AED"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="340" rx="24" fill="#070B12"/>
+  <rect x="32" y="32" width="1136" height="276" rx="18" stroke="url(#a)" stroke-width="2"/>
+  <text x="64" y="84" fill="#EAFBF5" font-family="Consolas, monospace" font-size="30" font-weight="700">ACTIVITY DASHBOARD</text>
+  <text x="64" y="116" fill="#9BEED4" font-family="Consolas, monospace" font-size="18">external live cards below render the real GitHub telemetry</text>
+  <g font-family="Consolas, monospace">
+    <rect x="64" y="154" width="230" height="92" rx="14" fill="#061D1A" stroke="#00FF88"/>
+    <text x="90" y="192" fill="#00FF88" font-size="22">STATS</text>
+    <text x="90" y="222" fill="#DFFFEF" font-size="16">commits / rank / icons</text>
+    <rect x="334" y="154" width="230" height="92" rx="14" fill="#061827" stroke="#00C2FF"/>
+    <text x="360" y="192" fill="#00C2FF" font-size="22">LANGS</text>
+    <text x="360" y="222" fill="#DDE7FF" font-size="16">stack distribution</text>
+    <rect x="604" y="154" width="230" height="92" rx="14" fill="#120A25" stroke="#7C3AED"/>
+    <text x="630" y="192" fill="#B891FF" font-size="22">STREAK</text>
+    <text x="630" y="222" fill="#EFE5FF" font-size="16">daily loop tracker</text>
+    <rect x="874" y="154" width="230" height="92" rx="14" fill="#21091B" stroke="#FF2BD6"/>
+    <text x="900" y="192" fill="#FF7AE7" font-size="22">GRAPH</text>
+    <text x="900" y="222" fill="#FFE2F8" font-size="16">contribution signal</text>
+  </g>
+  <path d="M82 280H1118" stroke="url(#a)" stroke-width="4" stroke-linecap="round">
+    <animate attributeName="stroke-dasharray" values="40 18;120 22;40 18" dur="4s" repeatCount="indefinite"/>
+  </path>
+</svg>

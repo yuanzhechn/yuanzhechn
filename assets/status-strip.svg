@@ -1,0 +1,19 @@
+<svg width="900" height="76" viewBox="0 0 900 76" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="s" x1="18" y1="38" x2="882" y2="38" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00FF88"/>
+      <stop offset="0.5" stop-color="#00C2FF"/>
+      <stop offset="1" stop-color="#FF2BD6"/>
+    </linearGradient>
+    <filter id="glow" x="-10%" y="-80%" width="120%" height="260%">
+      <feGaussianBlur stdDeviation="4" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect width="900" height="76" rx="16" fill="#070B12"/>
+  <rect x="10" y="10" width="880" height="56" rx="12" stroke="url(#s)" stroke-width="2"/>
+  <text x="36" y="45" fill="#00FF88" font-family="Consolas, monospace" font-size="18" filter="url(#glow)">ONLINE</text>
+  <text x="162" y="45" fill="#DDE7FF" font-family="Consolas, monospace" font-size="18">PROFILE README</text>
+  <text x="392" y="45" fill="#00C2FF" font-family="Consolas, monospace" font-size="18">GREEN WALL ACTIVE</text>
+  <text x="672" y="45" fill="#FF7AE7" font-family="Consolas, monospace" font-size="18">YUANZHECHN</text>
+</svg>

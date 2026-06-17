@@ -1,0 +1,26 @@
+<svg width="1200" height="300" viewBox="0 0 1200 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="stroke" x1="0" y1="0" x2="1200" y2="300" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00FF88"/>
+      <stop offset="0.55" stop-color="#00C2FF"/>
+      <stop offset="1" stop-color="#7C3AED"/>
+    </linearGradient>
+    <filter id="glow" x="-20%" y="-40%" width="140%" height="180%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect width="1200" height="300" rx="24" fill="#05070D"/>
+  <rect x="30" y="30" width="1140" height="240" rx="18" stroke="url(#stroke)" stroke-width="2"/>
+  <circle cx="62" cy="58" r="7" fill="#FF4757"/>
+  <circle cx="86" cy="58" r="7" fill="#FFD166"/>
+  <circle cx="110" cy="58" r="7" fill="#00FF88"/>
+  <text x="58" y="104" fill="#00FF88" font-family="Consolas, monospace" font-size="24" filter="url(#glow)">root@yuanzhechn:/build$ ./launch-profile --style flashy</text>
+  <text x="58" y="146" fill="#E7FFF4" font-family="Consolas, monospace" font-size="20">[OK] loaded profile widgets: stats, streak, trophy, summary cards</text>
+  <text x="58" y="184" fill="#DDE7FF" font-family="Consolas, monospace" font-size="20">[OK] synced contribution engines: snake + 3D green wall + rainbow wall</text>
+  <text x="58" y="222" fill="#9BEED4" font-family="Consolas, monospace" font-size="20">[RUN] next quest: learn, build, automate, repeat</text>
+  <rect x="58" y="246" width="1060" height="8" rx="4" fill="#101A24"/>
+  <rect x="58" y="246" width="820" height="8" rx="4" fill="url(#stroke)" filter="url(#glow)">
+    <animate attributeName="width" values="180;820;1040;820;180" dur="5s" repeatCount="indefinite"/>
+  </rect>
+</svg>

@@ -1,0 +1,28 @@
+<svg width="1200" height="170" viewBox="0 0 1200 170" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="g" x1="40" y1="40" x2="1160" y2="130" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00FF88"/>
+      <stop offset="0.5" stop-color="#85FFBD"/>
+      <stop offset="1" stop-color="#00C2FF"/>
+    </linearGradient>
+    <filter id="glow" x="-20%" y="-80%" width="140%" height="260%">
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect width="1200" height="170" rx="22" fill="#02110B"/>
+  <rect x="24" y="24" width="1152" height="122" rx="18" stroke="url(#g)" stroke-width="2"/>
+  <text x="54" y="78" fill="#00FF88" font-family="Consolas, monospace" font-size="32" font-weight="700" filter="url(#glow)">GREEN WALL REACTOR</text>
+  <text x="54" y="116" fill="#DFFFEF" font-family="Consolas, monospace" font-size="18">3D calendar / rainbow night mode / contribution snake / live activity chart</text>
+  <g filter="url(#glow)">
+    <rect x="838" y="54" width="34" height="34" rx="6" fill="#003D24" stroke="#00FF88"/>
+    <rect x="884" y="38" width="34" height="50" rx="6" fill="#005C35" stroke="#00FF88"/>
+    <rect x="930" y="66" width="34" height="22" rx="6" fill="#00A85F" stroke="#00FF88"/>
+    <rect x="976" y="28" width="34" height="60" rx="6" fill="#00FF88" stroke="#B8FFD8"/>
+    <rect x="1022" y="48" width="34" height="40" rx="6" fill="#00C2FF" stroke="#B8F4FF"/>
+    <rect x="1068" y="20" width="34" height="68" rx="6" fill="#7C3AED" stroke="#D7C2FF"/>
+  </g>
+  <path d="M838 120H1102" stroke="url(#g)" stroke-width="3" stroke-linecap="round" filter="url(#glow)">
+    <animate attributeName="stroke-dasharray" values="20 16;80 22;20 16" dur="3.2s" repeatCount="indefinite"/>
+  </path>
+</svg>

@@ -1,0 +1,31 @@
+<svg width="1200" height="320" viewBox="0 0 1200 320" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="card" x1="0" y1="0" x2="1200" y2="320" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#09111F"/>
+      <stop offset="1" stop-color="#12071F"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="80" y1="60" x2="1120" y2="260" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00FF88"/>
+      <stop offset="0.5" stop-color="#00C2FF"/>
+      <stop offset="1" stop-color="#FF2BD6"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="320" rx="24" fill="url(#card)"/>
+  <text x="58" y="68" fill="#EAFBF5" font-family="Consolas, monospace" font-size="30" font-weight="700">QUEST MATRIX</text>
+  <text x="58" y="102" fill="#9BEED4" font-family="Consolas, monospace" font-size="18">active build lanes for the next iteration</text>
+  <g font-family="Consolas, monospace">
+    <rect x="58" y="136" width="250" height="116" rx="16" fill="#061D1A" stroke="#00FF88"/>
+    <text x="82" y="176" fill="#00FF88" font-size="22" font-weight="700">AI ENGINEERING</text>
+    <text x="82" y="210" fill="#DFFFEF" font-size="16">agents / prompts / tools</text>
+    <rect x="336" y="136" width="250" height="116" rx="16" fill="#061827" stroke="#00C2FF"/>
+    <text x="360" y="176" fill="#00C2FF" font-size="22" font-weight="700">FULL STACK</text>
+    <text x="360" y="210" fill="#DDE7FF" font-size="16">frontend / APIs / data</text>
+    <rect x="614" y="136" width="250" height="116" rx="16" fill="#160926" stroke="#7C3AED"/>
+    <text x="638" y="176" fill="#B891FF" font-size="22" font-weight="700">AUTOMATION</text>
+    <text x="638" y="210" fill="#EFE5FF" font-size="16">scripts / workflows / CI</text>
+    <rect x="892" y="136" width="250" height="116" rx="16" fill="#240817" stroke="#FF2BD6"/>
+    <text x="916" y="176" fill="#FF7AE7" font-size="22" font-weight="700">OPEN SOURCE</text>
+    <text x="916" y="210" fill="#FFE2F8" font-size="16">notes / projects / sharing</text>
+  </g>
+  <path d="M308 194H336M586 194H614M864 194H892" stroke="url(#accent)" stroke-width="3" stroke-linecap="round"/>
+</svg>

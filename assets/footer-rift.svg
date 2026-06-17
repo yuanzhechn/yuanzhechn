@@ -1,0 +1,19 @@
+<svg width="1200" height="120" viewBox="0 0 1200 120" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="f" x1="0" y1="60" x2="1200" y2="60" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00FF88" stop-opacity="0"/>
+      <stop offset="0.25" stop-color="#00FF88"/>
+      <stop offset="0.52" stop-color="#00C2FF"/>
+      <stop offset="0.78" stop-color="#FF2BD6"/>
+      <stop offset="1" stop-color="#FF2BD6" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="glow" x="-20%" y="-100%" width="140%" height="300%">
+      <feGaussianBlur stdDeviation="7" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <path d="M20 60C160 28 238 94 380 58C522 22 610 100 752 62C894 24 1018 30 1180 60" stroke="url(#f)" stroke-width="5" stroke-linecap="round" filter="url(#glow)">
+    <animate attributeName="d" dur="5s" repeatCount="indefinite" values="M20 60C160 28 238 94 380 58C522 22 610 100 752 62C894 24 1018 30 1180 60;M20 60C160 96 238 28 380 62C522 100 610 22 752 58C894 94 1018 90 1180 60;M20 60C160 28 238 94 380 58C522 22 610 100 752 62C894 24 1018 30 1180 60"/>
+  </path>
+  <text x="460" y="96" fill="#9BEED4" font-family="Consolas, monospace" font-size="18">end of transmission</text>
+</svg>

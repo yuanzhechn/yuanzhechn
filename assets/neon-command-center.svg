@@ -1,0 +1,45 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="360" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#050816"/>
+      <stop offset="0.48" stop-color="#061D1A"/>
+      <stop offset="1" stop-color="#110622"/>
+    </linearGradient>
+    <linearGradient id="line" x1="80" y1="80" x2="1120" y2="300" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00FF88"/>
+      <stop offset="0.5" stop-color="#00C2FF"/>
+      <stop offset="1" stop-color="#FF2BD6"/>
+    </linearGradient>
+    <filter id="glow" x="-20%" y="-40%" width="140%" height="180%">
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <rect width="1200" height="360" rx="28" fill="url(#bg)"/>
+  <rect x="28" y="28" width="1144" height="304" rx="22" stroke="url(#line)" stroke-width="2" opacity="0.9"/>
+  <g opacity="0.22">
+    <path d="M80 98H1120M80 146H1120M80 194H1120M80 242H1120M80 290H1120" stroke="#8FFFE0"/>
+    <path d="M130 60V318M250 60V318M370 60V318M490 60V318M610 60V318M730 60V318M850 60V318M970 60V318M1090 60V318" stroke="#8FFFE0"/>
+  </g>
+  <path d="M90 260C190 132 280 286 380 158C480 30 570 226 670 110C770 -6 860 260 970 136C1030 68 1080 88 1120 112" stroke="url(#line)" stroke-width="5" filter="url(#glow)" stroke-linecap="round">
+    <animate attributeName="stroke-dasharray" values="30 22;110 24;30 22" dur="5s" repeatCount="indefinite"/>
+  </path>
+  <circle cx="380" cy="158" r="8" fill="#00FF88" filter="url(#glow)"/>
+  <circle cx="670" cy="110" r="8" fill="#00C2FF" filter="url(#glow)"/>
+  <circle cx="970" cy="136" r="8" fill="#FF2BD6" filter="url(#glow)"/>
+  <text x="70" y="92" fill="#00FF88" font-family="Consolas, monospace" font-size="22">YUANZHECHN // NEON COMMAND CENTER</text>
+  <text x="70" y="132" fill="#EAFBF5" font-family="Consolas, monospace" font-size="46" font-weight="700">BUILDING USEFUL SYSTEMS</text>
+  <text x="72" y="174" fill="#9BEED4" font-family="Consolas, monospace" font-size="20">full-stack development / AI-assisted engineering / automation / open source</text>
+  <g font-family="Consolas, monospace" font-size="18">
+    <rect x="72" y="216" width="176" height="42" rx="10" fill="#071E1A" stroke="#00FF88"/>
+    <text x="94" y="243" fill="#00FF88">STATUS: ONLINE</text>
+    <rect x="270" y="216" width="170" height="42" rx="10" fill="#061A28" stroke="#00C2FF"/>
+    <text x="294" y="243" fill="#00C2FF">MODE: BUILD</text>
+    <rect x="462" y="216" width="198" height="42" rx="10" fill="#170A2A" stroke="#FF2BD6"/>
+    <text x="486" y="243" fill="#FF7AE7">GREEN WALL: HOT</text>
+  </g>
+  <text x="72" y="306" fill="#DDE7FF" font-family="Consolas, monospace" font-size="18">root@github:~$ ship --fast --clean --flashy</text>
+</svg>
