@@ -1,125 +1,153 @@
+![](assets/Bottom_up.svg)
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,50:7C3AED,100:FF7A59&height=190&section=header&text=Hi,%20I'm%20Yuan%20Zhe&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=venom&height=230&color=0:00ff88,45:00c2ff,100:7c3aed&text=YUAN%20ZHE&fontColor=ffffff&fontSize=56&animation=twinkling&desc=Code.%20Build.%20Automate.%20Repeat.&descAlignY=68&descSize=18" alt="Yuan Zhe banner" />
 
-<a href="https://github.com/yuanzhechn">
-  <img src="https://komarev.com/ghpvc/?username=yuanzhechn&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</a>
-<a href="https://github.com/yuanzhechn?tab=followers">
-  <img src="https://img.shields.io/github/followers/yuanzhechn?label=Followers&style=flat&logo=github" alt="followers" />
-</a>
-<a href="mailto:yuanzhechn@foxmail.com">
-  <img src="https://img.shields.io/badge/Email-yuanzhechn%40foxmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="email" />
-</a>
+<p>
+  <a href="https://github.com/yuanzhechn"><img src="https://img.shields.io/badge/status-updating-00ff88?style=for-the-badge&logo=github&logoColor=white" alt="status" /></a>
+  <a href="https://github.com/yuanzhechn?tab=followers"><img src="https://img.shields.io/github/followers/yuanzhechn?style=for-the-badge&logo=github&label=Followers&color=00c2ff" alt="followers" /></a>
+  <a href="https://github.com/yuanzhechn?tab=repositories"><img src="https://img.shields.io/badge/repos-open%20source-7c3aed?style=for-the-badge&logo=github" alt="repos" /></a>
+  <a href="mailto:yuanzhechn@foxmail.com"><img src="https://img.shields.io/badge/email-yuanzhechn%40foxmail.com-ff4757?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a>
+</p>
 
-<br />
-<br />
+<p>
+  <img src="https://komarev.com/ghpvc/?username=yuanzhechn&label=Profile%20Views&color=00ff88&style=for-the-badge" alt="profile views" />
+  <img src="https://img.shields.io/github/last-commit/yuanzhechn/yuanzhechn?style=for-the-badge&label=Last%20Update&color=00c2ff" alt="last update" />
+</p>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=900&color=36BCF7&center=true&vCenter=true&width=720&lines=Developer+%7C+Builder+%7C+Lifelong+Learner;I+like+turning+ideas+into+working+software;Always+learning%2C+shipping%2C+and+improving" alt="typing svg" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&duration=2600&pause=700&color=00FF88&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Yuan+Zhe.;I+build+tools%2C+systems%2C+and+automation.;I+like+clean+code+and+cool+interfaces.;Welcome+to+my+GitHub+profile." alt="typing animation" />
 </a>
+
+<br />
+<br />
+
+<img src="./src/header_.png" alt="profile header" width="100%" />
 
 </div>
 
-## About Me
+## System Profile
 
 ```yaml
-name: "Yuan Zhe"
-location: "China"
-email: "yuanzhechn@foxmail.com"
-focus:
-  - Software development
-  - Open source learning
-  - Practical tools and automation
-currently_learning:
-  - AI-assisted development
-  - Full-stack engineering
-  - Clean architecture
+name: Yuan Zhe
+github: yuanzhechn
+email: yuanzhechn@foxmail.com
+location: China
+mode: building
+interests:
+  - full-stack development
+  - AI-assisted engineering
+  - automation
+  - practical open source
+values:
+  - ship useful things
+  - keep learning
+  - make software feel good
 ```
 
-## Tech Stack
+## Arsenal
+
+| Property | Stack |
+| --- | --- |
+| Languages | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=111111) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white) |
+| Frontend | ![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react&logoColor=61DAFB) ![Vue](https://img.shields.io/badge/-Vue-35495E?style=flat&logo=vuedotjs&logoColor=4FC08D) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white) |
+| Backend | ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-005C84?style=flat&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white) |
+| Tools | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=111111) |
+| Current Focus | ![AI](https://img.shields.io/badge/-AI%20Engineering-00ff88?style=flat) ![Automation](https://img.shields.io/badge/-Automation-00c2ff?style=flat) ![Full Stack](https://img.shields.io/badge/-Full%20Stack-7c3aed?style=flat) |
+
+## GitHub Command Center
 
 <div align="center">
 
-### Languages
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=yuanzhechn&show_icons=true&theme=merko&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub stats" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuanzhechn&layout=compact&theme=merko&hide_border=true&langs_count=10" alt="Top languages" />
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111111)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+<br />
+<br />
 
-### Frontend
+<img width="98%" src="https://streak-stats.demolab.com?user=yuanzhechn&theme=merko&hide_border=true&date_format=%5BY.%5Dn.j" alt="GitHub streak" />
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+<br />
+<br />
 
-### Backend & Tools
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=yuanzhechn&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="activity graph" />
 
 </div>
 
-## GitHub Analytics
+## Green Wall
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=yuanzhechn&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="github stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuanzhechn&layout=compact&theme=tokyonight&hide_border=true" alt="top languages" />
+<img width="98%" src="https://ghchart.rshah.org/00ff88/yuanzhechn" alt="Yuan Zhe GitHub contribution chart" />
 
 <br />
 <br />
 
-<img src="https://streak-stats.demolab.com?user=yuanzhechn&theme=tokyonight&hide_border=true" alt="github streak" />
+<img width="98%" src="https://raw.githubusercontent.com/yuanzhechn/yuanzhechn/output/github-contribution-grid-snake.svg" alt="contribution snake" />
 
 <br />
 <br />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yuanzhechn&theme=tokyo-night&hide_border=true&area=true" alt="activity graph" />
+<img width="98%" src="https://raw.githubusercontent.com/yuanzhechn/yuanzhechn/output/github-contribution-grid-snake-dark.svg" alt="dark contribution snake" />
+
+<br />
+<br />
+
+<img width="98%" src="./profile-3d-contrib/profile-green-animate.svg" alt="3D green contribution wall" />
 
 </div>
 
-## Featured Work
+## Trophy Room
 
 <div align="center">
 
-<a href="https://github.com/yuanzhechn?tab=repositories">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yuanzhechn&repo=yuanzhechn&theme=tokyonight&hide_border=true" alt="featured repository" />
-</a>
+<img width="98%" src="https://github-profile-trophy.vercel.app/?username=yuanzhechn&theme=matrix&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=7" alt="GitHub trophies" />
 
 </div>
 
-## What I Care About
+## Profile Summary
 
-- Building tools that are useful, simple, and pleasant to use.
-- Writing code that is readable enough for future me to thank present me.
-- Learning in public and turning notes, experiments, and small wins into reusable projects.
-- Collaborating with people who like thoughtful engineering and steady iteration.
+<div align="center">
+
+<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yuanzhechn&theme=github_dark" alt="profile details" />
+
+<br />
+<br />
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yuanzhechn&theme=github_dark" alt="repos per language" />
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yuanzhechn&theme=github_dark" alt="most commit language" />
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yuanzhechn&theme=github_dark&utcOffset=8" alt="productive time" />
+
+</div>
+
+## Current Loop
+
+```mermaid
+flowchart LR
+    idea["Idea"] --> design["Design"]
+    design --> code["Code"]
+    code --> ship["Ship"]
+    ship --> learn["Learn"]
+    learn --> idea
+```
 
 ## Connect
 
+<p align="center">
+  <a href="mailto:yuanzhechn@foxmail.com"><img src="./assets/gmail.svg" alt="Gmail" height="34" width="34" /></a>
+  <a href="https://github.com/yuanzhechn"><img src="https://img.shields.io/badge/GitHub-yuanzhechn-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+</p>
+
 <div align="center">
 
-<a href="mailto:yuanzhechn@foxmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
-</a>
-<a href="https://github.com/yuanzhechn">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="github" />
-</a>
-
-</div>
+<img src="https://profile-counter.glitch.me/yuanzhechn/count.svg" alt="visitor counter" />
 
 <br />
+<br />
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF7A59,50:7C3AED,100:00C2FF&height=120&section=footer" alt="footer" />
+<img src="https://count.getloli.com/get/@yuanzhechn.github.readme" alt="profile views" />
 
 </div>
+
+![](assets/Bottom_down.svg)
