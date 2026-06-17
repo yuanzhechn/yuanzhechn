@@ -105,11 +105,6 @@
   </picture>
 </p>
 
-## Trophy Room
-
-<p align="center">
-  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=yuanzhechn&theme=matrix&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=7" alt="GitHub trophies" />
-</p>
 
 ## Metrics Console
 
