@@ -90,11 +90,7 @@
 </p>
 
 <p align="center">
-  <img width="100%" src="./profile-3d-contrib/profile-green-animate.svg" alt="3D green contribution wall" />
-  <br />
-  <br />
-  <img width="49%" src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D night rainbow contribution wall" />
-  <img width="49%" src="./profile-3d-contrib/profile-gitblock.svg" alt="3D gitblock contribution wall" />
+  <img width="100%" src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D night rainbow contribution wall" />
 </p>
 
 <p align="center">
